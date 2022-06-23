@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "movieName": "kgf",
+      "hero": "Yash",
+      "heroine": "srinithi",
+      "gener": "action",
+      "rating": 7,
+      "story": "wefgrhmj",
+      "id": 1
+    },
+    {
+      "movieName": "spiderman",
+      "hero": "Tom",
+      "heroine": "zendaya",
+      "gener": "super heros",
+      "rating": 8,
+      "story": "jnfownfoew",
+      "id": 2
+    },
+    {
+      "movieName": "enthiran",
+      "hero": "rajinikanth",
+      "heroine": "aishwarya rai",
+      "gener": "robotics, action, scientist",
+      "rating": 9,
+      "story": "dmafn",
+      "id": 3
+    },
+    {
+      "movieName": "",
+      "hero": "",
+      "heroine": "",
+      "gener": "",
+      "ratings": "",
+      "storyline": "",
+      "id": 4
+    },
+    {
+      "movieName": "qq",
+      "hero": "qq",
+      "heroine": "ss",
+      "gener": "xx",
+      "ratings": "1",
+      "storyline": "zzz",
+      "id": 5
+    }
+  ]
+}

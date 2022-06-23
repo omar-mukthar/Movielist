@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+
+
+*
+{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Francois One', sans-serif;
+
+
+}
+
+.App
+{
+  
+  width: 600px;
+  height: 100px;
+  margin: auto;
+
+
+}
+nav
+{
+  
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 0.5px solid gray;
+}
+.links a
+{
+  text-decoration: none; 
+  margin: 0px 20px;
+  color: white;
+  background-color: cyan;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+
+
+/* ----------------home content */
+
+.home-content h2
+{
+  color: blue;
+
+
+}
+
+.movielist
+{
+  padding: 10px;
+  margin: 20px 0px;
+
+}
+.h3tag
+{
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px;  
+  
+}
+/* .movie-content
+{
+  box-shadow: 1px 1px 5px 0px ;
+  border: 1px solid yellow;
+} */
+.movie-content:hover
+{
+  /* border: 1px solid gray; */
+  box-shadow: 1px 2px 5px 0px ;
+  transition: 0.2s ease;
+
+}
+.movie-content button
+{
+  margin:10px 10px 10px 10px; 
+  padding: 10px;
+  width: 100px;
+  border-radius: 10px;
+}
+
+.create_movie
+{
+  display: grid;
+  grid-template-columns: 100px 200px;
+  column-gap: 10px;
+  row-gap: 10px;
+
+
+}
